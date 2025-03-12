@@ -10,4 +10,4 @@
 
 📫 How to reach me:
 <p align="l[eft">
-  <a href="https://twitter.com/(https://x.com/CamilleRoans)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="camilleroans" height="30" width="40" /></a>
+  <a href="https://x.com/CamilleRoans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="camilleroans" height="30" width="40" /></a>
