@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @CamilleNatasha
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I’m Camille Natasha
+💻 I'm a passionate developer who loves building creative and impactful projects.
+🌐 I’m interested in web development, open-source contributions, and building OnChain.
+📚 I’m currently learning React, Python, and cloud technologies.
+🤝 I’m looking to collaborate on open-source projects, hackathons, or anything that solves real-world problems.
+📫 How to reach me:
+Email: nnalubega@outlook.com
 
-<!---
-CamilleNatasha/CamilleNatasha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+LinkedIn: (https://www.linkedin.com/in/natasha-nalubega-3811b22b7/)
+
+Twitter: @CamilleRoans
