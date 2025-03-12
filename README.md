@@ -11,6 +11,3 @@
 📫 How to reach me:
 <p align="l[eft">
   <a href="https://twitter.com/(https://x.com/CamilleRoans)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="camilleroans" height="30" width="40" /></a>
-Email: nnalubega@outlook.com
-LinkedIn: https://www.linkedin.com/in/natasha-nalubega-3811b22b7/
-X: @CamilleRoans
