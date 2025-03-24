@@ -24,4 +24,14 @@
 😄 Pronouns: She/Her
 ⚡ Fun fact: I once coded an entire project in one sitting while binge-watching my favorite TV series!
 
-https://github.com/anuraghazra/github-readme-stats
+📫 Let’s Connect!
+I’m always open to meeting new people and collaborating on exciting projects. Feel free to reach out!!!
+
+⚡ Fun Section
+When I’m not coding, you can find me:
+
+🎮 Playing video games
+
+📖 Reading sci-fi novels
+
+🎨 Sketching or painting
