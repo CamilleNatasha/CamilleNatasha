@@ -28,10 +28,10 @@
 ⚡ Fun fact:
 I once coded an entire project in one sitting while binge-watching my favorite TV series!
 
-📫 Let’s Connect!
+📫 <p>Let’s Connect!</p>
 I’m always open to meeting new people and collaborating on exciting projects. Feel free to reach out!!!
 
-⚡ Fun Section
+⚡ <p>Fun Section</p>
 When I’m not coding, you can find me:
 
 🎮 Playing video games
@@ -39,3 +39,7 @@ When I’m not coding, you can find me:
 📖 Reading sci-fi novels
 
 🎨 Sketching or painting
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CamilleNatasha&show_icons=true&locale=en&layout=compact" alt="CamilleNatasha" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CamilleNatasha&show_icons=true&locale=en" alt="CamilleNatasha" /></p>
