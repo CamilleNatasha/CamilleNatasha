@@ -23,8 +23,10 @@
 
 <br />
 
-😄 Pronouns: She/Her
-⚡ Fun fact: I once coded an entire project in one sitting while binge-watching my favorite TV series!
+😄 <b>Pronouns</b>: She/Her
+
+⚡ Fun fact:
+I once coded an entire project in one sitting while binge-watching my favorite TV series!
 
 📫 Let’s Connect!
 I’m always open to meeting new people and collaborating on exciting projects. Feel free to reach out!!!
