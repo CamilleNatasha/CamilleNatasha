@@ -34,11 +34,11 @@ I’m always open to meeting new people and collaborating on exciting projects. 
 ⚡ <p>Fun Section</p>
 When I’m not coding, you can find me:
 
-🎮 Playing video games
+🎮 Hiking
 
 📖 Reading sci-fi novels
 
-🎨 Sketching or painting
+🎨 Swimming
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CamilleNatasha&show_icons=true&locale=en&layout=compact" alt="CamilleNatasha" /></p>
 
