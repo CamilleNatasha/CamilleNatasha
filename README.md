@@ -4,7 +4,7 @@
 
 🌐 I’m interested in web development, open-source contributions, and building OnChain.
 
-📚 I’m currently learning React, Python, and cloud technologies.
+📚 I’m currently learning Rust, RubyonRails and cloud technologies.
 
 🤝 I’m looking to collaborate on open-source projects, hackathons, or anything that solves real-world problems.
 
