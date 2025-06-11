@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I’m Camille Natasha</h1>
 
-<h3 align="center">💻 I'm a passionate developer who loves building creative and impactful projects., Web3 Enthusiast and AI</h3>
+<h3 align="center">💻 I'm a passionate developer who loves building creative and impactful projects, Web3 Enthusiast and AI</h3>
 
 🌐 I’m interested in web development, open-source contributions, and building OnChain.
 
